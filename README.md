@@ -22,7 +22,7 @@ Class: ???
 
 ## Assignments
 
-Assignments here?
+TBA
 
 ## Learning material & Resources
 
