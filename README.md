@@ -7,7 +7,6 @@ Class: ???
 - [Full course timetable](https://docs.google.com/spreadsheets/d/1ShNeOn9NxLJRXbAWSBZQAN_UrCkyc1bE3_25_HNp-ao/edit?usp=sharing)
 - [Assignments and grading]()
 - [Wiki](https://github.com/JAMK-IT/TTOW0211-221-game-programming/wiki)
-- [Optima](https://optima.jamk.fi/)
 - [Slack](https://jamk-it.slack.com) and the channel is **#ttow0211-221**
 
 **Check if you have enrolled to both the courses (ASIO), if not and willing please tell us. If you are only willing to do the basics part, please tell us.**
