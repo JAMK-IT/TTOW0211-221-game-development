@@ -28,19 +28,7 @@ Assignments here?
 
 ## Learning material & Resources
 
-Here is a link for our material & resources wiki page. If you find something useful, please inform Paavo on Slack for example!
-
-- [Git guide](http://rogerdudler.github.io/git-guide/)
-- [Beginning C# Scripting in Unity3D](https://www.youtube.com/playlist?list=PLFgjYYTq6xyhtVK6VzLiFe3pmBu-XSNlX)
-- [Unity3D & Blender video (in Finnish)](https://www.youtube.com/watch?v=UsY3oqyrHao)
-- [Overview of Agile methodology](http://www.slideshare.net/hareshkarkar/overview-of-agile-methodology)
-- [Introduction to game prototyping and research](http://www.slideshare.net/Gortag/game-prototyping-and-research) 
-- [Vertex PDF Magazines](http://artbypapercut.com/) -  detailed step-by-step walkthroughs by professional game artists
-- [Dota 2 Character Art Guide](http://media.steampowered.com/apps/dota2/workshop/Dota2CharacterArtGuide.pdf) - very good and brief introduction to character design
-- [Juicy Breakout](http://grapefrukt.com/f/games/juicy-breakout/) - example of how very simple graphical effects can make a game feel more responsive and enjoyable, also check out the linked "Juice it or lose it" presentation
-- [HD Index Painting in PhotoShop](http://danfessler.com/blog/hd-index-painting-in-photoshop) - how to create pixel art -style backgrounds quickly in PhotoShop
-- Also check the Optima
-- Our library has some books on the subject!
+[Here is a link](https://github.com/JAMK-IT/TTOW0211-game-programming/wiki/material) for our material & resources wiki page. If you find something useful, please inform Paavo on Slack for example!
  
 ## Misc links
 
