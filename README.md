@@ -20,15 +20,14 @@ Class: ???
 | 7.3. | TBA | ... | 
 | jne | ... | ... | 
 
-
-
 ## Assignments
 
 Assignments here?
 
 ## Learning material & Resources
 
-[Here is a link](https://github.com/JAMK-IT/TTOW0211-game-programming/wiki/material) for our material & resources wiki page.  
+[Here is a link](https://github.com/JAMK-IT/TTOW0211-game-programming/wiki/material) for our material & resources wiki page. 
+
 If you find something useful, please inform Paavo on Slack for example!
  
 ## Misc links
