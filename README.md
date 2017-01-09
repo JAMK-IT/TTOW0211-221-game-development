@@ -6,6 +6,7 @@ Contact: ???
 Class: ???
 
 - Full course timetable: TBA
+- Assignments and grading: TBA
 - Wiki: https://github.com/JAMK-IT/TTOW0211-game-programming/wiki
 - Optima: https://optima.jamk.fi/
 - Slack: https://jamk-it.slack.com and the channel is ???
@@ -25,7 +26,9 @@ Class: ???
 
 Assignments here?
 
-## Learning material
+## Learning material & Resources
+
+Here is a link for our material & resources wiki page. If you find something useful, please inform Paavo on Slack for example!
 
 - [Git guide](http://rogerdudler.github.io/git-guide/)
 - [Beginning C# Scripting in Unity3D](https://www.youtube.com/playlist?list=PLFgjYYTq6xyhtVK6VzLiFe3pmBu-XSNlX)
