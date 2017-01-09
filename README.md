@@ -2,7 +2,6 @@
 
 Teacher: Jouni Huotari, Paavo Nelimarkka, ???  
 Contact: ???
-
 Class: ???
 
 - [Full course timetable](https://docs.google.com/spreadsheets/d/1ShNeOn9NxLJRXbAWSBZQAN_UrCkyc1bE3_25_HNp-ao/edit?usp=sharing)
