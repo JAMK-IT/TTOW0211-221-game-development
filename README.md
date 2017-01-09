@@ -1,4 +1,4 @@
-# Game Programming - TTOW0211
+# Game Development Module - TTOW0211
 
 Teacher: Jouni Huotari, Paavo Nelimarkka, ???
 Contact: ???
