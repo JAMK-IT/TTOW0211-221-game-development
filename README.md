@@ -7,7 +7,7 @@ Class: ???
 
 - [Full course timetable](https://docs.google.com/spreadsheets/d/1ShNeOn9NxLJRXbAWSBZQAN_UrCkyc1bE3_25_HNp-ao/edit?usp=sharing)
 - [Assignments and grading]()
-- [Wiki](https://github.com/JAMK-IT/TTOW0211-game-programming/wiki)
+- [Wiki](https://github.com/JAMK-IT/TTOW0211-TTOW0221-game-programming/wiki)
 - [Optima](https://optima.jamk.fi/)
 - [Slack](https://jamk-it.slack.com) and the channel is #ttow0211
 
@@ -26,7 +26,7 @@ TBA
 
 ## Learning material & Resources
 
-[Here is a link](https://github.com/JAMK-IT/TTOW0211-game-programming/wiki/material) for our material & resources wiki page. 
+[Here is a link](https://github.com/JAMK-IT/TTOW0211-TTOW0221-game-programming/wiki/material) for our material & resources wiki page. 
 
 If you find something useful, please inform Paavo on Slack for example!
  
