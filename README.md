@@ -6,7 +6,7 @@ Contact: ???
 Class: ???
 
 - [Full course timetable](https://docs.google.com/spreadsheets/d/1ShNeOn9NxLJRXbAWSBZQAN_UrCkyc1bE3_25_HNp-ao/edit?usp=sharing)
-- Assignments and grading: TBA
+- [Assignments and grading]()
 - Wiki: https://github.com/JAMK-IT/TTOW0211-game-programming/wiki
 - Optima: https://optima.jamk.fi/
 - Slack: https://jamk-it.slack.com and the channel is ???
