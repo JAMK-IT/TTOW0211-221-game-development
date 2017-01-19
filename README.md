@@ -31,8 +31,8 @@ TBA
 
 ## Misc links
 
-- JAMK-GameDev organization: https://github.com/JAMK-GameDev
-- https://education.github.com/pack
 - https://www.reddit.com/r/unity3d
+- https://education.github.com/pack
+
 
 
