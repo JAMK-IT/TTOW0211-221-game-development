@@ -12,11 +12,12 @@ Class: ???
 **Check if you have enrolled to both the courses (ASIO), if not and willing please tell us. If you are only willing to do the basics part, please tell us.**
 
 ## Lessons
-| Day | Subjects | Misc |
-|:--------|:----------:|-----:|
-| 6.3. | Course introduction, TBA | ... | 
-| 7.3. | TBA | ... | 
-| jne | ... | ... | 
+| Day | Subjects | Lecturer | Misc |
+|:--------|:----------:|-----|----:|
+| 6.3. | Course introduction, TBA | ... | ... |
+| 7.3. | TBA | ... | ... |
+| jne | ... | ... | ... | 
+| 13.3 | Peliliiketoiminta | Mika Karhulahti | ... |
 
 
 ## Learning material & Resources
