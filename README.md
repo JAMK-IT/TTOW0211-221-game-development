@@ -14,6 +14,7 @@ Class: ???
 ## Common Lectures
 
 | Day | Subjects | Lecturer | Misc |
+|:--------|:----------:|-----|----:|
 | 13.3. | Game Business & Industry | Mika Karhulahti | ... |
 | 20.3. | Distribution & Monetization | Mika Karhulahti | ... |
 | 27.3. | Game Business & Industry | Mika Karhulahti | ... |
