@@ -19,8 +19,13 @@ Class: ???
 | 7.3. | Game Design | Klaus Kääriäinen | ... |
 | 13.3. | Game Design | Klaus Kääriäinen | ... |
 | 14.3. | Game Design & Postmortem Analysis | Klaus Kääriäinen | ... |
-| 20.3. | Distribution & Monetization | Mika Karhulahti | ... |
-| 27.3. | Game Business & Industry | Mika Karhulahti | ... |
+| 20.3. | Game Graphics | Mikko Tyni | ... |
+| 21.3. | Game Graphics | Mikko Tyni | ... |
+| 27.3. | Game Graphics | Mikko Tyni | ... |
+| 28.3. | Game Graphics | Mikko Tyni | ... |
+| 3.4. | Entrepreneurship in Game Industry | Mikko Tyni | ... |
+| 4.4. | Entrepreneurship in Game Industry | Mikko Tyni | ... |
+
 
 ## Lessons
 | Day | Subjects | Lecturer | Misc |
