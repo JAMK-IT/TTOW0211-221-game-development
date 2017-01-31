@@ -15,7 +15,10 @@ Class: ???
 
 | Day | Subjects | Lecturer | Misc |
 |:--------|:----------:|-----|----:|
-| 13.3. | Game Business & Industry | Mika Karhulahti | ... |
+| 6.3. | Game project experiences,  | Dmitri Z, Tuomas Roininen, Klaus Kääriäinen, Niko Korhonen | ... |
+| 7.3. | Game Design | Klaus Kääriäinen | ... |
+| 13.3. | Game Design | Klaus Kääriäinen | ... |
+| 14.3. | Game Design & Postmortem Analysis | Klaus Kääriäinen | ... |
 | 20.3. | Distribution & Monetization | Mika Karhulahti | ... |
 | 27.3. | Game Business & Industry | Mika Karhulahti | ... |
 
