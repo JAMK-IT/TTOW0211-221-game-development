@@ -17,7 +17,9 @@ Class: ???
 | 6.3. | Course introduction, TBA | ... | ... |
 | 7.3. | TBA | ... | ... |
 | jne | ... | ... | ... | 
-| 13.3 | Peliliiketoiminta | Mika Karhulahti | ... |
+| 13.3. | Game Business & Industry | Mika Karhulahti | ... |
+| 20.3. | Distribution & Monetization | Mika Karhulahti | ... |
+| 27.3. | Game Business & Industry | Mika Karhulahti | ... |
 
 
 ## Learning material & Resources
