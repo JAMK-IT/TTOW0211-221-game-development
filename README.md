@@ -12,21 +12,31 @@
 **Check if you have enrolled to both the courses (through Asio system); if not and willing please tell us. If you are only willing to do the basics part, please tell us.**
 
 
-## Lessons
+## Lectures
 
 | Day | Subjects | Lecturer | Misc |
 |:--------|:----------:|-----|----:|
 | 8.2. | [Pre-course assignments!](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/pre-course-assignments) | Questions: @paavonelimarkka on Slack! | |
-| 6.3. | Game project experiences | Dmitri Z, Tuomas Roininen, Klaus Kääriäinen, Niko Korhonen | ... |
-| 7.3. | Game Design | Klaus Kääriäinen | ... |
-| 13.3. | Game Design | Klaus Kääriäinen | ... |
-| 14.3. | Game Design & Postmortem Analysis | Klaus Kääriäinen | ... |
+| 6.3. | Game project experiences | Dmitri Z, Tuomas Roininen, Klaus Kääriäinen, Jani Immonen | ... |
+| 7.3. | Basics of Game Design | Klaus Kääriäinen | ... |
+| 13.3. | Game Design & Post-mortem Analysis | Klaus Kääriäinen | ... |
+| 14.3. | Game Design Theory | Klaus Kääriäinen | ... |
 | 20.3. | Game Graphics | Mikko Tyni | ... |
 | 21.3. | Game Graphics | Mikko Tyni | ... |
 | 27.3. | Game Graphics | Mikko Tyni | ... |
 | 28.3. | Game Graphics | Mikko Tyni | ... |
-| 3.4. | Entrepreneurship in Game Industry | Mikko Tyni | ... |
+| 3.4. | Game Project Execution | Mikko Tyni | ... |
 | 4.4. | Entrepreneurship in Game Industry | Mikko Tyni | ... |
+| 10.4. | Marketing in Game Industry | Klaus Kääriäinen | ... |
+| 11.4. | Game Business & Insudtry | Mika Karhulahti | ... |
+
+## Lessons
+
+| 17.4. | **Easter!** | ... | ... |
+| 18.4. | Project work | ... | ... |
+| 24.4. | Deadline for returning projects | ... | ... |
+
+
 
 
 ## Learning material & Resources
