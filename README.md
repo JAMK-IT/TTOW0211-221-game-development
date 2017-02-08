@@ -13,17 +13,10 @@ Class: D330 + special lectures in D407 (on Mondays and Tuesdays at 8.30 - 11.30)
 
 
 ## Lessons
-| Day | Subjects | Lecturer | Misc |
-|:--------|:----------:|-----|----:|
-| 6.3. | Course introduction | Jouni & Paavo | Participation mandatory! |
-| 7.3. | TBA | ... | ... |
-| etc. | ... | ... | ... | 
-
-
-## Common Lectures
 
 | Day | Subjects | Lecturer | Misc |
 |:--------|:----------:|-----|----:|
+| 8.2. | [Pre-course assignments!](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/pre-course-assignments) | | |
 | 6.3. | Game project experiences | Dmitri Z, Tuomas Roininen, Klaus Kääriäinen, Niko Korhonen | ... |
 | 7.3. | Game Design | Klaus Kääriäinen | ... |
 | 13.3. | Game Design | Klaus Kääriäinen | ... |
