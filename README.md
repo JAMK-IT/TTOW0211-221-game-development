@@ -33,11 +33,11 @@ Class: D330 + special lectures in D407 (on Mondays and Tuesdays at 8.30 - 11.30)
 
 [Here is a link](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/material) for our material & resources wiki page. 
 
-If you find something useful, please inform Paavo on Slack!
+If you find something useful that could be linked there, please inform @paavonelimarkka on Slack!
 
 ## Assignments
 
-Currently in Optima, more detailed instructions later.
+More detailed instructions later...
 
 ## Misc links
 
