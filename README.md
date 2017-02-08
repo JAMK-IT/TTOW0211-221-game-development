@@ -17,7 +17,7 @@
 Lectures in D407 @ 08:30 - 11:30
 
 | Day | Subjects | Lecturer | Misc |
-|:--------|:----------:|-----|----:|
+|:--------|:----------:|:-----:|----:|
 | 6.3. | Game project experiences | Dmitri Z, Tuomas Roininen, Klaus Kääriäinen, Jani Immonen | ... |
 | 7.3. | Basics of Game Design | Klaus Kääriäinen | ... |
 | 13.3. | Game Design & Post-mortem Analysis | Klaus Kääriäinen | ... |
@@ -36,7 +36,7 @@ Lectures in D407 @ 08:30 - 11:30
 Lessons in D330 after the lectures and lunch
 
 | Day | Subjects | Lecturer | Misc |
-|:--------|:----------:|-----|----:|
+|:--------|:----------:|:-----:|----:|
 | 8.2. | [Pre-course assignments!](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/pre-course-assignments) | Questions: @paavonelimarkka on Slack! | |
 | 6.3. | ... | ... | ... |
 | 7.3. | ... | ... | ... |
