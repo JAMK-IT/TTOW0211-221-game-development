@@ -5,7 +5,7 @@
 **Class:** D330 + special lectures in D407 (on Mondays and Tuesdays at 8.30 - 11.30)  
 
 - [Full course timetable](https://docs.google.com/spreadsheets/d/1ShNeOn9NxLJRXbAWSBZQAN_UrCkyc1bE3_25_HNp-ao/edit?usp=sharing)
-- [Assignments and grading]()
+- [Course grading]()
 - [Wiki](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki)
 - [Slack](https://jamk-it.slack.com) and the channel is **[#ttow0211-221](https://jamk-it.slack.com/messages/ttow0211-221/)**
 
