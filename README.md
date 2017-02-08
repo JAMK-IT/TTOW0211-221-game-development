@@ -11,7 +11,7 @@
 
 **Check if you have enrolled to both the courses (through Asio system); if not and willing please tell us. If you are only willing to do the basics part, please tell us.**
 
-## Current Assingments
+## Current Assignments
 
 [Pre-course assignments](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/pre-course-assignments). If any questions, ask @paavonelimarkka on Slack!
 
