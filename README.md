@@ -14,6 +14,8 @@
 
 ## Lectures
 
+Lectures in D407 @ 08:30 - 11:30
+
 | Day | Subjects | Lecturer | Misc |
 |:--------|:----------:|-----|----:|
 | 8.2. | [Pre-course assignments!](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/pre-course-assignments) | Questions: @paavonelimarkka on Slack! | |
@@ -32,8 +34,24 @@
 
 ## Lessons
 
+Lessons in D330 after the lectures and lunch
+
+| Day | Subjects | Lecturer | Misc |
+|:--------|:----------:|-----|----:|
+| 6.3. | ... | ... | ... |
+| 7.3. | ... | ... | ... |
+| 13.3. | ... | ... | ... |
+| 14.3. | ... | ... | ... |
+| 20.3. | ... | ... | ... |
+| 21.3. | ... | ... | ... |
+| 27.3. | ... | ... | ... |
+| 28.3. | ... | ... | ... |
+| 3.4. | ... | ... | ... |
+| 4.4. | ... | ... | ... |
+| 10.4. | ... | ... | ... |
+| 11.4. | ... | ... | ... |
 | 17.4. | **Easter!** | ... | ... |
-| 18.4. | Project work | ... | ... |
+| 18.4. | ... | ... | ... |
 | 24.4. | Deadline for returning projects | ... | ... |
 
 
