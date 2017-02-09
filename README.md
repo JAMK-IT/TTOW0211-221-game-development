@@ -46,15 +46,15 @@ Lessons in D330 after the lectures and lunch
 | 13.3. | Idea Pitching, Team Formation, Team Communication... | ... | Assignemnt X |
 | 14.3. | Game Idea Development, Prototyping | ... | Assignemnt X |
 | 20.3. | Game Design Document, Game Project Plan, Post-mortem analysis | ... | Assignment X |
-| 21.3. | ...  | ... | ... |
-| 27.3. | ... | ... | ... |
-| 28.3. | ... | ... | ... |
-| 3.4.  | ... | ... | ... |
-| 4.4.  | ... | ... | ... |
-| 10.4. | ... | ... | ... |
-| 11.4. | ... | ... | ... |
+| 21.3. | Game Idea Pitching and prototype reviews | ... | ... |
+| 27.3. | Unity3D stuff? | ... | ... |
+| 28.3. | Unity3D stuff? | ... | ... |
+| 3.4.  | Project Work | Paavo Nelimarkka | ... |
+| 4.4.  | Project Work | Paavo Nelimarkka | ... |
+| 10.4. | Project Work | Paavo Nelimarkka | ... |
+| 11.4. | Project Work | Paavo Nelimarkka | ... |
 | 17.4. | **Easter break!** | ... | ... |
-| 18.4. | ... | ... | ... |
+| 18.4. | Project Work | Paavo Nelimarkka | ... |
 | 24.4. | **Deadline for returning projects!** | ... | ... |
 
 
