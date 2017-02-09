@@ -5,11 +5,11 @@ The first task in order to establish a performing team is to get to know each ot
 You should read guidelines presented in TeamBuildingToolkit in order to understand different stages in team building and to achieve performing stage ASAP.
 Start designing your game in a group of four (+/- one) persons. 
 
-Every team member has to have at least one specific task (role descriptions saved from http://www.skillset.org/games/careers/profiles/):
-•	Project Lead (Producer, Project Manager); in this course the leader typically participates at least in one of following roles needed in the group:
-•	Game Designer
-•	(Head/Lead) Programmer
-•	Creative Director / (Lead/Technical) Artist
+Every team member has to have at least one specific task (role descriptions saved from http://www.skillset.org/games/careers/profiles/) and in this course the leader typically participates at least in one of following roles needed in the group:
+*	Project Lead (Producer, Project Manager);
+*	Game Designer
+*	(Head/Lead) Programmer
+*	Creative Director / (Lead/Technical) Artist
 
 In addition, you might consider having the following roles: Animator, Level Editor, Audio Engineer, Quality Assurance Technician (aka Tester), and External Producer. Prepare to change role during the project; you might start, for example, as a game designer and end up to write code for the game.
 The third assignment is to describe yourself so that others get an idea about your skills as a game developer and team member. Then discuss and decide: 1) the name of your team; 2) internal communication (channels, tools, meeting times etc.); and 3) your team goals (based on your personal goals: what do you want to learn, what grade you are aiming at etc.; this should be written in your personal learning report). Other topics for discussion: funding, IPR issues, contracts/agreements.
