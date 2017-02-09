@@ -41,14 +41,14 @@ Lessons in D330 after the lectures and lunch
 | Day | Subjects | Lecturer | Misc |
 |:--------|----------|-----|----:|
 | 8.2. | [Pre-course assignments!](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/pre-course-assignments) | Questions: @paavonelimarkka on Slack! | |
-| 6.3.  | Course Introduction, ??? | ... | Assignment X |
+| 6.3.  | Course Introduction, Introducing yourselves, Learning Report | ... | Assignment X |
 | 7.3.  | Agile Methodologies & Tools, Idea Development | ... | Assignment X |
-| 13.3. | Idea Pitching, Team Formation, Team Communication... | ... | Assignemnt X |
-| 14.3. | Game Idea Development, Prototyping | ... | Assignemnt X |
-| 20.3. | Game Design Document, Game Project Plan, Post-mortem analysis | ... | Assignment X |
-| 21.3. | Game Idea Pitching and prototype reviews | ... | ... |
+| 13.3. | Idea Pitching, Team Formation, Team Communication, Idea Development | ... | Assignemnt X |
+| 14.3. | Game Idea Development, Prototyping, Start GDD & GPP | ... | Assignemnt X |
+| 20.3. | Game Idea Pitching and prototype reviews | ... | Assignment X |
+| 21.3. | Unity3D stuff? | ... | ... |
 | 27.3. | Unity3D stuff? | ... | ... |
-| 28.3. | Unity3D stuff? | ... | ... |
+| 28.3. | Project Work | ... | ... |
 | 3.4.  | Project Work | Paavo Nelimarkka | ... |
 | 4.4.  | Project Work | Paavo Nelimarkka | ... |
 | 10.4. | Project Work | Paavo Nelimarkka | ... |
