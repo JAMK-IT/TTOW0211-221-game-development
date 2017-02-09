@@ -17,24 +17,24 @@ More instructions can be found from http://gamecareerguide.com/ and http://creat
 
 ## 2. Create documents
 In this Game programming project course, you will create the following documents:
-•	Game project plan:
-  o	Name of your project
-  o	Objectives for the project
-  o	Contact information list; roles in this project (see list above)
-  o	Communication plan (this was decided during the phase 1, see above)
-  o	Phase/task list (features taken from the game design document) => schedule (Gantt chart or similar) and workload estimates
-  o	Risk management plan (list potential risks, evaluate their severity and probability, plan mitigating actions and actions if risk comes true)
-•	Game definition document(s) (1-3 pages): list the different ideas from your team and illustrate at least the following in order to decide which game idea would be the best:
-  o	Name of your game
-  o	Game idea, background story, depict its' world (=> synopsis; read instructions)
-  o	Aim of the game
-  o	Players actions in game
+*	Game project plan:
+  *	Name of your project
+  *	Objectives for the project
+  *	Contact information list; roles in this project (see list above)
+  *	Communication plan (this was decided during the phase 1, see above)
+  *	Phase/task list (features taken from the game design document) => schedule (Gantt chart or similar) and workload estimates
+  *	Risk management plan (list potential risks, evaluate their severity and probability, plan mitigating actions and actions if risk comes true)
+*	Game definition document(s) (1-3 pages): list the different ideas from your team and illustrate at least the following in order to decide which game idea would be the best:
+  *	Name of your game
+  *	Game idea, background story, depict its' world (=> synopsis; read instructions)
+  *	Aim of the game
+  *	Players actions in game
 
 In addition, consider illustrating player and game interactions (how they apply to each other); the appearance of game (graphics etc.); user interface (between game and the player); level design; and technical requirements in brief (no details, the idea is to get reader interested / exited about your game idea).
-•	Game design document (10-40 pages)
-•	Review (test), memos from internal meetings, and other documents during the development phase
-•	Presentation (see below; utilize your game project website)
-•	Final report (lessons learned; post-mortem): what did you learn, what went wrong, what went right => best practices; self-evaluation (process, outcomes); improvement suggestions (for yourselves and for this course); self-evaluation (grade for the project group and, if you want to emphasize the effort of someone or for some other reason to divide the grade, personal grade suggestions; and continuation plan: what shall you do next (new platforms, levels etc.)
+*	Game design document (10-40 pages)
+*	Review (test), memos from internal meetings, and other documents during the development phase
+*	Presentation (see below; utilize your game project website)
+*	Final report (lessons learned; post-mortem): what did you learn, what went wrong, what went right => best practices; self-evaluation (process, outcomes); improvement suggestions (for yourselves and for this course); self-evaluation (grade for the project group and, if you want to emphasize the effort of someone or for some other reason to divide the grade, personal grade suggestions; and continuation plan: what shall you do next (new platforms, levels etc.)
 
 If you want, you can create just one document containing both the project plan and game design. We strongly recommend using wiki (Github) for your game development. You can choose the tools you need in your game development project (e.g. Bugzilla, Testlink etc.) helping  to keep your game project related information up-to-date.
 
@@ -46,13 +46,13 @@ You can and should use checklists provided by H. M. Chandler in the Game product
 
 #5. Final presentation
 Prepare a presentation which includes:
-• Title page with logo and characters
-• “Game overview” page with short game description, title, genre, age range, release date, number of players
-• “Key strengths” page with “what is new”, “why the market needs it,” and three key selling points
-• “Universe” page with core spirit of game universe, scenario, art style, characters
-• “Gameplay” page with player’s actions and control, rules, player objectives, challenge
-• “Game structure” page with game flow, game modes (i.e. multiplayer), length and duration, replay value
-• “Lessons learned” page. 
-• “Competitors” page, with an explanation as to why your team and your concept are better
-• Conceptual images
+* Title page with logo and characters
+* “Game overview” page with short game description, title, genre, age range, release date, number of players
+* “Key strengths” page with “what is new”, “why the market needs it,” and three key selling points
+* “Universe” page with core spirit of game universe, scenario, art style, characters
+* “Gameplay” page with player’s actions and control, rules, player objectives, challenge
+* “Game structure” page with game flow, game modes (i.e. multiplayer), length and duration, replay value
+* “Lessons learned” page. 
+* “Competitors” page, with an explanation as to why your team and your concept are better
+* Conceptual images
 
