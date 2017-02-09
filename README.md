@@ -22,29 +22,29 @@ Lectures in D407 @ 08:30 - 11:30 & lessons in D330 after the lunch
 | Day | Subjects | Lecturer | Misc |
 |:--------|----------|------|----:|
 | 8.2. | [Pre-course assignments!](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/pre-course-assignments) | Questions: @paavonelimarkka on Slack! | ... |
-| 6.3. | Game project experiences | Dmitri Z, Tuomas Roininen, Klaus Kääriäinen, Jani Immonen | ... |
+| 6.3. | **Lecture:** Game project experiences | Dmitri Z, Tuomas Roininen, Klaus Kääriäinen, Jani Immonen | ... |
 |      | Course Introduction, Introducing yourselves, Learning Report  | ... | ... |
-| 7.3. | Basics of Game Design | Klaus Kääriäinen | ... |
+| 7.3. | **Lecture:** Basics of Game Design | Klaus Kääriäinen | ... |
 |      | Agile Methodologies & Tools, Idea Development | ... | ... |
-| 13.3. | Game Design & Post-mortem Analysis | Klaus Kääriäinen | ... |
+| 13.3. | **Lecture:** Game Design & Post-mortem Analysis | Klaus Kääriäinen | ... |
 |       | Idea Pitching, Team Formation, Team Communication, Idea Development | ... | ... |
-| 14.3. | Game Design Theory | Klaus Kääriäinen | ... |
+| 14.3. | **Lecture:** Game Design Theory | Klaus Kääriäinen | ... |
 |       | Game Idea Development, Prototyping, Start GDD & GPP | ... | ... |
-| 20.3. | Game Graphics | Mikko Tyni | ... |
+| 20.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
 |       | Game Idea Pitching and prototype reviews | ... | ... |
-| 21.3. | Game Graphics | Mikko Tyni | ... |
+| 21.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
 |       | Unity3D stuff? ... | ... | ... |
-| 27.3. | Game Graphics | Mikko Tyni | ... |
+| 27.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
 |       | Unity3D stuff? | ... | ... |
-| 28.3. | Game Graphics | Mikko Tyni | ... |
+| 28.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
 |       | Project Work | Paavo Nelimarkka | ... |
-| 3.4. | Game Project Execution | Mikko Tyni | ... |
+| 3.4. | **Lecture:** Game Project Execution | Mikko Tyni | ... |
 |      | Project Work | Paavo Nelimarkka | ... |
-| 4.4. | Entrepreneurship in Game Industry | Mikko Tyni | ... |
+| 4.4. | **Lecture:** Entrepreneurship in Game Industry | Mikko Tyni | ... |
 |      | Project Work | Paavo Nelimarkka | ... |
-| 10.4. | Marketing in Game Industry | Klaus Kääriäinen | ... |
+| 10.4. | **Lecture:** Marketing in Game Industry | Klaus Kääriäinen | ... |
 |       | Project Work | Paavo Nelimarkka | ... |
-| 11.4. | Game Business & Insudtry | Mika Karhulahti | ... |
+| 11.4. | **Lecture:** Game Business & Insudtry | Mika Karhulahti | ... |
 |       | Project Work | Paavo Nelimarkka | ... |
 | 17.4. | **Easter break!** | ... | ... |
 | 18.4. | Project Work | Paavo Nelimarkka | ... |
