@@ -17,7 +17,7 @@
 
 ## Course Timetable
 
-Lectures in D407 @ 08:30 - 11:30 & lessons in D330 after the lunch
+Lectures in D407 @ 08:30 - 11:30 & lessons in D330 starting from 12:15 ...
 
 | Day | Subjects | Lecturer | Misc |
 |:--------|----------|------|----:|
