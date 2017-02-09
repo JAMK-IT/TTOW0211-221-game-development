@@ -47,7 +47,7 @@ Lectures in D407 @ 08:30 - 11:30 & lessons in D330 starting from 12:15 ...
 | 11.4. | **Lecture:** Game Business & Insudtry | Mika Karhulahti | ... |
 |       | Project Work | Paavo Nelimarkka | ... |
 | 17.4. | **Easter break!** | ... | ... |
-| 18.4. | Project Work | Paavo Nelimarkka | ... |
+| 18.4. | Project Work | Paavo Nelimarkka | Expa gathering? |
 | 24.4. | **Deadline for returning projects!** | ... | ... |
 
 ## Learning material & Resources
