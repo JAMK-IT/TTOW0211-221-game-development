@@ -8,6 +8,7 @@
 - [Course grading]()
 - [Wiki](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki)
 - [Slack](https://jamk-it.slack.com) and the channel is **[#ttow0211-221](https://jamk-it.slack.com/messages/ttow0211-221/)**
+- [Assignment return folders in Optima](https://optima.jamk.fi/)
 
 **Check if you have enrolled to both the courses (through Asio system); if not and willing please tell us. If you are only willing to do the basics part, please tell us.**
 
@@ -58,7 +59,7 @@ If you find something useful that could be linked there, please inform @paavonel
 
 ## Assignments
 
-More detailed instructions later...
+- [Pre-course assignments!](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/pre-course-assignments)
 
 ## Misc links
 
