@@ -33,7 +33,7 @@ Lectures in D407 @ 08:30 - 11:30 & lessons in D330 starting from 12:15 ...
 | 20.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
 |       | Game Idea Pitching and prototype reviews | ... | ... |
 | 21.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
-|       | Unity3D stuff? ... | ... | ... |
+|       | Unity3D stuff? ... | ... | [Expa Gathering](https://www.facebook.com/events/1624706311166333/) |
 | 27.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
 |       | Unity3D stuff? | ... | ... |
 | 28.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
