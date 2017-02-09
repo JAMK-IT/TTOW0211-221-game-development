@@ -53,9 +53,9 @@ Lessons in D330 after the lectures and lunch
 | 4.4.  | ... | ... | ... |
 | 10.4. | ... | ... | ... |
 | 11.4. | ... | ... | ... |
-| 17.4. | **Easter!** | ... | ... |
+| 17.4. | **Easter** ..which means independent work! | ... | ... |
 | 18.4. | ... | ... | ... |
-| 24.4. | **Deadline for returning projects** | ... | ... |
+| 24.4. | **Deadline for returning projects!** | ... | ... |
 
 
 
