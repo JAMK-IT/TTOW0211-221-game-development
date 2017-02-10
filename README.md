@@ -51,6 +51,8 @@ Lectures in D407 @ 08:30 - 11:30 & lessons in D330 starting from 12:15 ...
 | 18.4. | Finishing the project.. | Paavo Nelimarkka | Expa gathering? |
 | 24.4. | **Game presentations!** | ... | ... |
 
+**Please note:** There will be changes in this timetable!
+
 ## Learning material & Resources
 
 [Here is a link](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/material) for our material & resources wiki page. 
