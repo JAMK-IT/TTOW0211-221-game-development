@@ -24,7 +24,7 @@ Lectures in D407 @ 08:30 - 11:30 & lessons in D330 starting from 12:15 ...
 | 8.2. | [Pre-course assignments!](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/pre-course-assignments) | Questions: @paavonelimarkka on Slack! | ... |
 | 6.3. | **Lecture:** Game project experiences | Dmitri Z, Tuomas Roininen, Klaus Kääriäinen, Jani Immonen, Niko Korhonen etc.. | ... |
 |      | Course Introduction, Introducing yourselves, Game Developers Journal  | ... | ... |
-| 7.3. | **Lecture:** Basics of Game Design | Klaus Kääriäinen | ... |
+| 7.3. | **Lecture:** Manuscripting, synopsis | Ilari Miikkulainen | ... |
 |      | Agile Methodologies & Tools, Idea Development | Paavo Nelimarkka | ... |
 | 13.3. | **Lecture:** Game Design & Post-mortem Analysis | Klaus Kääriäinen | ... |
 |       | Idea Pitching, Team Formation, Team Communication, Idea Development | Paavo Nelimarkka | ... |
