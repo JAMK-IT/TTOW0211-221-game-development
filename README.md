@@ -48,7 +48,7 @@ Lectures in D407 @ 08:30 - 11:30 & lessons in D330 starting from 12:15 ...
 |       | Project Work | Paavo Nelimarkka | ... |
 | 17.4. | **Easter break!** | ... | ... |
 | 18.4. | Finishing the project.. | Paavo Nelimarkka | Expa gathering? |
-| 24.4. | **Game presentations!** | ... | ... |
+| 24.4. | **Game presentations!** | Everyone who's interested! | ... |
 
 **Please note:** There will be changes in this timetable!
 
