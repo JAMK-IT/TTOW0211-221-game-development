@@ -25,17 +25,17 @@ Lectures in D407 @ 08:30 - 11:30 & lessons in D330 starting from 12:15 ...
 | 6.3. | **Lecture:** Game project experiences | Dmitri Z, Tuomas Roininen, Klaus Kääriäinen, Jani Immonen, Niko Korhonen etc.. | ... |
 |      | Course Introduction, Introducing yourselves, Game Developers Journal  | ... | ... |
 | 7.3. | **Lecture:** Basics of Game Design | Klaus Kääriäinen | ... |
-|      | Agile Methodologies & Tools, Idea Development | ... | ... |
+|      | Agile Methodologies & Tools, Idea Development | Paavo Nelimarkka | ... |
 | 13.3. | **Lecture:** Game Design & Post-mortem Analysis | Klaus Kääriäinen | ... |
-|       | Idea Pitching, Team Formation, Team Communication, Idea Development | ... | ... |
+|       | Idea Pitching, Team Formation, Team Communication, Idea Development | Paavo Nelimarkka | ... |
 | 14.3. | **Lecture:** Game Design Theory | Klaus Kääriäinen | ... |
-|       | Game Idea Development, Prototyping, Start GDD & GPP | ... | ... |
+|       | Game Idea Development, Prototyping, Start GDD & GPP | Paavo Nelimarkka | ... |
 | 20.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
-|       | Game Idea Pitching and prototype reviews | ... | ... |
+|       | Game Idea Pitching and prototype reviews | Paavo Nelimarkka | ... |
 | 21.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
-|       | Unity3D stuff? ... | ... | [Expa Gathering](https://www.facebook.com/events/1624706311166333/) |
+|       | Unity3D stuff? ... | Paavo Nelimarkka | [Expa Gathering](https://www.facebook.com/events/1624706311166333/) |
 | 27.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
-|       | Unity3D stuff? | ... | ... |
+|       | Unity3D stuff? | Paavo Nelimarkka | ... |
 | 28.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
 |       | Project Work | Paavo Nelimarkka | ... |
 | 3.4. | **Lecture:** Game Project Execution | Mikko Tyni | ... |
