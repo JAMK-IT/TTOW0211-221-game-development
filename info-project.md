@@ -43,7 +43,7 @@ If you want, you can create just one document containing both the project plan a
 You should be aware that normally developing a full-featured game takes time (sometimes several years). In this course, you have only a couple of months to finish your first game. Therefore, try to build a prototype containing only the core features (so called minimum viable product, MVP) first. It is a good practice to illustrate your idea (e.g. by creating UI mock-ups) and get feedback from your friends and actually from anybody who is willing to offer their time to evaluate your game idea.
 
 # 4. Check that you have done everything
-You can and should use checklists provided by H. M. Chandler in the Game production handbook.
+You can and should use [checklists] provided by H. M. Chandler in the Game production handbook.
 
 #5. Final presentation
 Prepare a presentation which includes:
