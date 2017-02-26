@@ -16,7 +16,7 @@
 
 * Basics of Game Development: 
   * [Pre-course assignments](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/pre-course-assignments). If any questions, ask @paavonelimarkka on Slack!
-  *	1) Game design assignments 
+  *	1) [Game design assignments](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/Game-design-assignments)
   *	2) Exercises and assignments for game programming with Unity 
   *	3) Game graphics assignments
 * [Game project](https://github.com/JAMK-IT/TTOW0211-221-game-development/blob/master/info-project.md)
