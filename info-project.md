@@ -2,16 +2,16 @@
 
 ## 1. Create/build/form your game development team
 The first task in order to establish a performing team is to get to know each other. For that, do the first two assignments.
-You should read guidelines presented in TeamBuildingToolkit in order to understand different stages in team building and to achieve performing stage ASAP.
-Start designing your game in a group of four (+/- one) persons. 
+You should read guidelines presented in TeamBuildingToolkit in order to understand different stages in team building and to achieve performing stage ASAP. Start designing your game in a group of four (+/- one) persons. 
 
-Every team member has to have at least one specific task (role descriptions saved from http://www.skillset.org/games/careers/profiles/) and in this course the leader typically participates at least in one of following roles needed in the group:
+Every team member has to have at least one specific task (role descriptions saved from http://creativeskillset.org/creative_industries/games/job_roles) and in this course the leader typically participates at least in one of following roles needed in the group:
 *	Project Lead (Producer, Project Manager);
 *	Game Designer
 *	(Head/Lead) Programmer
 *	Creative Director / (Lead/Technical) Artist
 
 In addition, you might consider having the following roles: Animator, Level Editor, Audio Engineer, Quality Assurance Technician (aka Tester), and External Producer. Prepare to change role during the project; you might start, for example, as a game designer and end up to write code for the game.
+
 The third assignment is to describe yourself so that others get an idea about your skills as a game developer and team member. Then discuss and decide: 1) the name of your team; 2) internal communication (channels, tools, meeting times etc.); and 3) your team goals (based on your personal goals: what do you want to learn, what grade you are aiming at etc.; this should be written in your personal learning report). Other topics for discussion: funding, IPR issues, contracts/agreements.
 More instructions can be found from http://gamecareerguide.com/ and http://creativeskillset.org/creative_industries/games.
 
@@ -31,6 +31,7 @@ In this Game programming project course, you will create the following documents
   *	Players actions in game
 
 In addition, consider illustrating player and game interactions (how they apply to each other); the appearance of game (graphics etc.); user interface (between game and the player); level design; and technical requirements in brief (no details, the idea is to get reader interested / exited about your game idea).
+
 *	Game design document (10-40 pages)
 *	Review (test), memos from internal meetings, and other documents during the development phase
 *	Presentation (see below; utilize your game project website)
