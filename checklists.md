@@ -1,15 +1,16 @@
 # PRE-PRODUCTION CHECKLIST
 
-## CONCEPT	 	 
-Is initial game concept defined?	 	 
-Are platform and genre specified?	 	 
-Is mission statement completed?	 	 
-Are basic game play elements defined?	 	 
-(Is prototype completed?)	 	 
-Is risk analysis completed?	 	 
-Is the concept pitch ready for approval?	 	 
-Have all stakeholders approved the concept?	 	 
-Is project kick-off scheduled?	 	 
+## CONCEPT
+
+* Is initial game concept defined?
+* Are platform and genre specified?
+* Is mission statement completed?	 	 
+* Are basic game play elements defined?	 	 
+* (Is prototype completed?)	 	 
+* Is risk analysis completed?	 	 
+* Is the concept pitch ready for approval?	 	 
+* Have all stakeholders approved the concept?	 	 
+* Is project kick-off scheduled?	 	 
  	 	 
 ## GAME REQUIREMENTS	 	 
 Are "must have," "want to have," and "nice to have" features defined?	 	 
