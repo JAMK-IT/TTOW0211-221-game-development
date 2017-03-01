@@ -35,7 +35,7 @@
 | 7.3. | **Lecture:** Manuscripting, synopsis | Ilari Miikkulainen | ... |
 |      | Agile Methodologies & Tools, Team Formation & Idea Pitching | Paavo Nelimarkka | ... |
 | 13.3. | **Lecture:** Game Design & Post-mortem Analysis | Klaus Kääriäinen | ... |
-|       | Team Communication, Idea Development | Paavo Nelimarkka | ... |
+|       | Team Communication, Idea Development - Blue Arrow Awards tilaisuus D407 | Paavo Nelimarkka | ... |
 | 14.3. | **Lecture:** Game Design Theory | Klaus Kääriäinen | ... |
 |       | Game Idea Development & Prototyping, Start GDD & GPP | Paavo Nelimarkka | ... |
 | 20.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
