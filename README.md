@@ -31,13 +31,13 @@
 |:--------|----------|------|----:|
 | 8.2. | [Pre-course assignments!](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/pre-course-assignments) | Questions: @paavonelimarkka on Slack! | ... |
 | 6.3. | **Lecture:** Game project experiences | Dmitri Z, Tuomas Roininen, Klaus Kääriäinen, Jani Immonen, Niko Korhonen etc.. | ... |
-|      | Course Introduction, Introducing yourselves, Game Developers Journal  | ... | ... |
+|      | Course Introduction, Introducing yourselves, Idea Development, Game Developers Journal  | ... | ... |
 | 7.3. | **Lecture:** Manuscripting, synopsis | Ilari Miikkulainen | ... |
-|      | Agile Methodologies & Tools, Idea Development | Paavo Nelimarkka | ... |
+|      | Agile Methodologies & Tools, Team Formation & Idea Pitching | Paavo Nelimarkka | ... |
 | 13.3. | **Lecture:** Game Design & Post-mortem Analysis | Klaus Kääriäinen | ... |
-|       | Idea Pitching, Team Formation, Team Communication, Idea Development | Paavo Nelimarkka | ... |
+|       | Team Communication, Idea Development | Paavo Nelimarkka | ... |
 | 14.3. | **Lecture:** Game Design Theory | Klaus Kääriäinen | ... |
-|       | Game Idea Development, Prototyping, Start GDD & GPP | Paavo Nelimarkka | ... |
+|       | Game Idea Development & Prototyping, Start GDD & GPP | Paavo Nelimarkka | ... |
 | 20.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
 |       | Game Idea Pitching and prototype reviews | Paavo Nelimarkka | ... |
 | 21.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
