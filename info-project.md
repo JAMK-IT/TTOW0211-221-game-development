@@ -45,8 +45,10 @@ You should be aware that normally developing a full-featured game takes time (so
 # 4. Check that you have done everything
 You can and should use [checklists](https://github.com/JAMK-IT/TTOW0211-221-game-development/blob/master/checklists.md) provided by H. M. Chandler in the Game production handbook.
 
-#5. Final presentation
+#5. Final presentation & Video Demo
+
 Prepare a presentation which includes:
+
 * Title page with logo and characters
 * “Game overview” page with short game description, title, genre, age range, release date, number of players
 * “Key strengths” page with “what is new”, “why the market needs it,” and three key selling points
@@ -56,4 +58,6 @@ Prepare a presentation which includes:
 * “Lessons learned” page. 
 * “Competitors” page, with an explanation as to why your team and your concept are better
 * Conceptual images
+
+Also make a demonstrative video about your game on Youtube!
 
