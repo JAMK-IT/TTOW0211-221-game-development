@@ -31,7 +31,7 @@
 |:--------|----------|------|----:|
 | 8.2. | [Pre-course assignments!](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/pre-course-assignments) | Questions: @paavonelimarkka on Slack! | ... |
 | 6.3. | **Lecture:** Game project experiences | Dmitri Z, Tuomas Roininen, Klaus Kääriäinen, Jani Immonen, etc.. | ... |
-|      | Course Introduction, Introducing yourselves, Idea Development, Game Developers Journal  | Paavo Nelimarkka | ... |
+|      | Course Introduction, Introducing yourselves, [Game Evaluation Assignment](), [Game idea development]() | Paavo Nelimarkka | ... |
 | 7.3. | **Lecture:** Manuscripting, synopsis | Ilari Miikkulainen | ... |
 |      | Agile Methodologies & Tools, Team Formation & Idea Pitching | Paavo Nelimarkka | ... |
 | 13.3. | **Lecture:** Game Design & Post-mortem Analysis | Klaus Kääriäinen | ... |
