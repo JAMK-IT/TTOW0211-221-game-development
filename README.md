@@ -1,8 +1,8 @@
 # Game Development Module - TTOW0211 & TTOW0221
 
-**Lecturers:** Jouni Huotari, Paavo Nelimarkka + visiting lecturers  
+**Lecturers:** Paavo Nelimarkka, Jouni Huotari + visiting lecturers  
 **Contact:** firstname.lastname@jamk.fi  
-**Class:** D330 + special lectures in D407 (on Mondays and Tuesdays at 8.30 - 11.30)  
+**Class:** D330 (in the afternoons) + special lectures in D407 (on Mondays and Tuesdays at 8.30 - 11.30)  
 
 - [Course grading](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/course-grading)
 - [Wiki](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki)
