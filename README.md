@@ -21,6 +21,7 @@
   *	3) Game graphics assignments
 * [Game project](https://github.com/JAMK-IT/TTOW0211-221-game-development/blob/master/info-project.md)
 
+* For both courses: Game Developers Journal (instructions for writing: [learning report](http://homes.jamk.fi/~huojo/opetus/IIO50Z/LearningReport.pdf)
 
 ## Course Timetable
 
