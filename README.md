@@ -5,7 +5,6 @@
 **Class:** D330 (in the afternoons) + special lectures in D407 (on Mondays and Tuesdays at 8.30 - 11.30)  
 
 - [Course grading](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/course-grading)
-- [Wiki](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki)
 - [Slack](https://jamk-it.slack.com) and the channel is **[#ttow0211-221](https://jamk-it.slack.com/messages/ttow0211-221/)**
 - [Assignment return folders in Optima](https://optima.jamk.fi/)
 
