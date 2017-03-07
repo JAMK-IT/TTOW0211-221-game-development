@@ -35,7 +35,7 @@
 | 7.3. | **Lecture:** Manuscripting, synopsis | Ilari Miikkulainen | ... |
 |      | [Agile Methodologies & Tools](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/Agile-methodologies), [Team Formation, Team Communication, Idea Pitching](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/Team-Formation), [Synopsis](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/Assignments---Synopsis) | Paavo Nelimarkka | ... |
 | 13.3. | **Lecture:** Game Design & Post-mortem Analysis | Klaus Kääriäinen | ... |
-|       | Idea Development, Game Synopsis - **Blue Arrow Awards tilaisuus D407** | Paavo Nelimarkka | ... |
+|       | Idea Development, Game Synopsis - **[Blue Arrow Awards tilaisuus D407](https://www.bluearrowawards.com/)** | Paavo Nelimarkka | ... |
 | 14.3. | **Lecture:** Game Design Theory | Klaus Kääriäinen | ... |
 |       | Game Prototype, Start GDD & GPP | Paavo Nelimarkka | ... |
 | 20.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
