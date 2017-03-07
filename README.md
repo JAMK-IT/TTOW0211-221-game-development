@@ -37,7 +37,7 @@
 | 13.3. | **Lecture:** Game Design & Post-mortem Analysis | Klaus Kääriäinen | ... |
 |       | Idea Development, Game Synopsis - **Blue Arrow Awards tilaisuus D407** | Paavo Nelimarkka | ... |
 | 14.3. | **Lecture:** Game Design Theory | Klaus Kääriäinen | ... |
-|       | Game Idea Development & Prototyping, Start GDD & GPP | Paavo Nelimarkka | ... |
+|       | Game Prototype, Start GDD & GPP | Paavo Nelimarkka | ... |
 | 20.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
 |       | Game Idea Pitching and prototype reviews | Paavo Nelimarkka | ... |
 | 21.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
