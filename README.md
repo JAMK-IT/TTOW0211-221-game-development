@@ -33,7 +33,7 @@
 | 6.3. | **Lecture:** Game project experiences | Dmitri Z | ... |
 |      | [Course Introduction](https://docs.google.com/presentation/d/15LzKXx7TdEPpJ7UOl1YgYsG7cMljwem0od90iRdRZeM/edit?usp=sharing), Introducing yourselves, [Pre-Course Assignemnts](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/pre-course-assignments) , [Game Evaluation Assignment](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/game-evaluation-assignment), [Game idea development](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/Game-Idea-Development) | Paavo Nelimarkka | ... |
 | 7.3. | **Lecture:** Manuscripting, synopsis | Ilari Miikkulainen | ... |
-|      | Agile Methodologies & Tools, [Team Formation, Team Communication, Idea Pitching](), [Synopsis](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/Assignments---Synopsis) | Paavo Nelimarkka | ... |
+|      | Agile Methodologies & Tools, [Team Formation, Team Communication, Idea Pitching](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/Team-Formation), [Synopsis](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/Assignments---Synopsis) | Paavo Nelimarkka | ... |
 | 13.3. | **Lecture:** Game Design & Post-mortem Analysis | Klaus Kääriäinen | ... |
 |       | Idea Development, Game Synopsis - **Blue Arrow Awards tilaisuus D407** | Paavo Nelimarkka | ... |
 | 14.3. | **Lecture:** Game Design Theory | Klaus Kääriäinen | ... |
