@@ -41,7 +41,7 @@
 | 20.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
 |       | Game Idea Pitching and prototype reviews | Paavo Nelimarkka | ... |
 | 21.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
-|       | Unity3D stuff? ... | Paavo Nelimarkka | [Expa Gathering](https://www.facebook.com/events/1624706311166333/) |
+|       | GIT, Unity3D... | Paavo Nelimarkka | [Expa Gathering](https://www.facebook.com/events/1624706311166333/) |
 | 27.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
 |       | Unity3D stuff? | Paavo Nelimarkka | ... |
 | 28.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
