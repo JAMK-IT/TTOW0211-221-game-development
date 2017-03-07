@@ -39,7 +39,7 @@
 | 14.3. | **Lecture:** Game Design Theory | Klaus Kääriäinen | ... |
 |       | Game Prototype, Start GDD & GPP | Paavo Nelimarkka | ... |
 | 20.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
-|       | Tuomas Roininen (EXPA), Game Idea Pitching and prototype reviews | Paavo Nelimarkka | ... |
+|       | **Tuomas Roininen (EXPA)**, Game Idea Pitching and prototype reviews | Paavo Nelimarkka | ... |
 | 21.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
 |       | GIT, Unity3D... | Paavo Nelimarkka | [Expa Gathering](https://www.facebook.com/events/1624706311166333/) |
 | 27.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
