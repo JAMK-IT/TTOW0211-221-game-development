@@ -2,7 +2,7 @@
 
 ## 1. Create/build/form your game development team
 The first task in order to establish a performing team is to get to know each other. For that, do the first two assignments.
-You should read guidelines presented in TeamBuildingToolkit in order to understand different stages in team building and to achieve performing stage ASAP. Start designing your game in a group of four (+/- one) persons. 
+You should read guidelines presented in TeamBuildingToolkit (found in Optima) in order to understand different stages in team building and to achieve performing stage ASAP. Start designing your game in a group of five (+/- one) persons. 
 
 Every team member has to have at least one specific task (role descriptions saved from http://creativeskillset.org/creative_industries/games/job_roles) and in this course the leader typically participates at least in one of following roles needed in the group:
 *	Project Lead (Producer, Project Manager);
