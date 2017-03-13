@@ -45,7 +45,7 @@
 | 27.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
 |       | Unity3D stuff? | Paavo Nelimarkka | ... |
 | 28.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
-|       | Game Music, Project Work | Ilari Miikkulainen, Paavo Nelimarkka | ... |
+|       | **Game Music**, Project Work | **Ilari Miikkulainen**, Paavo Nelimarkka | ... |
 | 3.4. | **Lecture:** Game Project Execution | Mikko Tyni | ... |
 |      | Project Work | Paavo Nelimarkka | ... |
 | 4.4. | **Lecture:** Entrepreneurship in Game Industry | Mikko Tyni | ... |
