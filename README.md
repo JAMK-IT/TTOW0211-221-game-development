@@ -39,7 +39,7 @@
 | 14.3. | **Lecture:** Game Design Theory | Klaus Kääriäinen | ... |
 |       | [Game Idea Pitching, Game Prototype](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/Game-Pitch-&-Paper-Prototype), Start [GDD](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/Game-Design-Document#2-game-design-document) & [GPP](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/Game-Project-Plan) | Paavo Nelimarkka | ... |
 | 20.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
-|       | **Tuomas Roininen (EXPA)**, Game Idea Pitching and prototype reviews | Paavo Nelimarkka | ... |
+|       | **Tuomas Roininen ([EXPA](http://www.expa.fi/))**, Game Idea Pitching and prototype reviews | Paavo Nelimarkka | ... |
 | 21.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
 |       | GIT, Unity3D... | Paavo Nelimarkka | [Expa Gathering](https://www.facebook.com/events/1624706311166333/) |
 | 27.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
