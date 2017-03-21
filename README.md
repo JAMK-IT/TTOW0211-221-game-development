@@ -41,7 +41,7 @@
 | 20.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
 |       | **Tuomas Roininen ([EXPA](http://www.expa.fi/))**, Game Idea Pitching and prototype reviews | Paavo Nelimarkka | ... |
 | 21.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
-|       | GIT, Unity3D, Project Work, [Expa Gathering](https://www.facebook.com/events/1624706311166333/)... | Paavo Nelimarkka | [Expa Gathering](https://www.facebook.com/events/1624706311166333/) |
+|       | [GIT](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/material#git), Unity3D, Project Work, [Expa Gathering](https://www.facebook.com/events/1624706311166333/)... | Paavo Nelimarkka | [Expa Gathering](https://www.facebook.com/events/1624706311166333/) |
 | 27.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
 |       | Unity3D, Project Work | Paavo Nelimarkka | ... |
 | 28.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
