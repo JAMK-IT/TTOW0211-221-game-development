@@ -45,7 +45,7 @@
 | 27.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
 |       | [Unity3D: Survival Shooter](https://unity3d.com/learn/tutorials/projects/survival-shooter-tutorial), Project Work | Paavo Nelimarkka | ... |
 | 28.3. | **Lecture:** Game Graphics | Mikko Tyni | ... |
-|       | **Bonus Lecture: Game Music**, Project Work | Ilari Miikkulainen, Paavo Nelimarkka | ... |
+|       | **Bonus Lecture: Game Music** (in D330), Project Work | Ilari Miikkulainen, Paavo Nelimarkka | ... |
 | 3.4. | **Lecture:** Game Project Execution | Mikko Tyni | ... |
 |      | Project Work | Paavo Nelimarkka | ... |
 | 4.4. | **Lecture:** Entrepreneurship in Game Industry | Mikko Tyni | ... |
