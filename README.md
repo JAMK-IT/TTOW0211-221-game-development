@@ -55,8 +55,9 @@
 | 11.4. | **Lecture:** Game Business & Insudtry | Mika Karhulahti | ... |
 |       | Project Work | Paavo Nelimarkka | ... |
 | 17.4. | **Easter break!** | ... | ... |
-| 18.4. | Finishing the project.. | Paavo Nelimarkka | Expa gathering? |
-| 24.4. | **Game presentations!** | Everyone who's interested! | ... |
+| 18.4. | Project Work | Paavo Nelimarkka | Expa gathering? |
+| 24.4. | Finishing the project.. |  | ... |
+| 25.4. | **Game presentations!** in auditorium | Everyone who's interested! | ... |
 
 **Please note:** There will be changes in this timetable!
 
