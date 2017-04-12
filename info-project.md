@@ -37,10 +37,15 @@ In this Game programming project course, you will create the following documents
 
 In addition, consider illustrating player and game interactions (how they apply to each other); the appearance of game (graphics etc.); user interface (between game and the player); level design; and technical requirements in brief (no details, the idea is to get reader interested / exited about your game idea).
 
+***Game Design Document***
+Check wiki for instructions!
+
+In the end you should have:
 * Video of your Paper Prototype
-*	Game design document (10-40 pages)
+*	Game Design Document (10-40 pages)
+* Game Project Plan
 *	Review (test), memos from internal meetings, and other documents during the development phase
-*	Presentation (see below; utilize your game project website)
+*	Presentation (see below; utilize your game project website/github)
 *	Final report (lessons learned; post-mortem): what did you learn, what went wrong, what went right => best practices; self-evaluation (process, outcomes); improvement suggestions (for yourselves and for this course); self-evaluation (grade for the project group and, if you want to emphasize the effort of someone or for some other reason to divide the grade, personal grade suggestions; and continuation plan: what shall you do next (new platforms, levels etc.)
 
 If you want, you can create just one document containing both the project plan and game design. We strongly recommend using wiki (Github) for your game development. You can choose the tools you need in your game development project (e.g. Bugzilla, Testlink etc.) helping  to keep your game project related information up-to-date.
