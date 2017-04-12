@@ -26,11 +26,14 @@ In this Game programming project course, you will create the following documents
 -	Communication plan (this was decided during the phase 1, see above)
 -	Phase/task list (features taken from the game design document) => schedule (Gantt chart or similar) and workload estimates
 -	Risk management plan (list potential risks, evaluate their severity and probability, plan mitigating actions and actions if risk comes true)
+
+
 ***Game definition document(s) (1-3 pages) (also called synopsis): list the different ideas from your team and illustrate at least the following in order to decide which game idea would be the best:***
-  -	Name of your game
-  -	Game idea, background story, depict its' world (=> synopsis; read instructions)
-  -	Aim of the game
-  -	Players actions in game
+
+-	Name of your game
+-	Game idea, background story, depict its' world (=> synopsis; read instructions)
+-	Aim of the game
+-	Players actions in game
 
 In addition, consider illustrating player and game interactions (how they apply to each other); the appearance of game (graphics etc.); user interface (between game and the player); level design; and technical requirements in brief (no details, the idea is to get reader interested / exited about your game idea).
 
