@@ -18,14 +18,15 @@ More instructions can be found from http://gamecareerguide.com/ and http://creat
 ## 2. Create documents
 In this Game programming project course, you will create the following documents:
 
--	Game project plan
-  -	Name of your project
-  -	Objectives for the project
-  -	Contact information list; roles in this project (see list above)
-  -	Communication plan (this was decided during the phase 1, see above)
-  -	Phase/task list (features taken from the game design document) => schedule (Gantt chart or similar) and workload estimates
-  -	Risk management plan (list potential risks, evaluate their severity and probability, plan mitigating actions and actions if risk comes true)
--	Game definition document(s) (1-3 pages) (also called synopsis): list the different ideas from your team and illustrate at least the following in order to decide which game idea would be the best:
+***Game project plan:***
+
+-	Name of your project
+-	Objectives for the project
+-	Contact information list; roles in this project (see list above)
+-	Communication plan (this was decided during the phase 1, see above)
+-	Phase/task list (features taken from the game design document) => schedule (Gantt chart or similar) and workload estimates
+-	Risk management plan (list potential risks, evaluate their severity and probability, plan mitigating actions and actions if risk comes true)
+***Game definition document(s) (1-3 pages) (also called synopsis): list the different ideas from your team and illustrate at least the following in order to decide which game idea would be the best:***
   -	Name of your game
   -	Game idea, background story, depict its' world (=> synopsis; read instructions)
   -	Aim of the game
