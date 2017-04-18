@@ -56,7 +56,7 @@
 |       | Project Work | Paavo Nelimarkka | ... |
 | 17.4. | **Easter break!** | ... | ... |
 | 18.4. | Project Work | Paavo Nelimarkka | ... |
-| 24.4. | Finishing the project.. Remember the demo video & presentation! |  | ... |
+| 24.4. | Group discussions, finishing the project.. Remember the demo video & presentation! | Paavo Nelimarkka | ... |
 | 25.4. | **Game presentations!** in auditorium, course feeback in ASIO, group discussions | Everyone who's interested! | Expa gathering! |
 
 **Please note:** There will be changes in this timetable!
