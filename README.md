@@ -58,7 +58,7 @@
 | 18.4. | Project Work | Paavo Nelimarkka | ... |
 | 24.4. | **Quest Lecturers: Overmare studios** | Various lecturers | ... |
 |       | Group discussions (12:30-14:00), finishing the project.. Remember the demo video & presentation! | Paavo Nelimarkka | **Course feeback in ASIO!** |
-| 25.4. | **Game presentations!** in auditorium, **course feeback in ASIO!**, group discussions if still needed... | Everyone who's interested! | Expa gathering! |
+| 25.4. | **Game presentations!** in auditorium, **course feeback in ASIO**, group discussions if still needed... | Everyone who's interested! | Expa gathering! |
 
 **Please note:** There will be changes in this timetable!
 
