@@ -13,6 +13,8 @@
 
 ## Assignments
 
+[FINAL RETURN INSTRUCTIONS]()
+
 * Basics of Game Development: 
   * [Pre-course assignments](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/pre-course-assignments). If any questions, ask @paavonelimarkka on Slack!
   *	1) [Game design assignments](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/Game-design-assignments)
